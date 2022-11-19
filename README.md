@@ -1,7 +1,7 @@
 # MenuFrogHax
 Método de hackeo para Nintendo 3Ds/2Ds
 
-*SINOPSIS*
+**SINOPSIS**
 
 El siguiente proceso de Modificación de 3Ds es un híbrido entre Menuhax67 [https://github.com/zoogie/menuhax67] y Frogtool [https://github.com/zoogie/Frogtool],
 ambas creaciones de Zoogie y es a él a quien deben atribuirse todos lo méritos. Yo, Kelonio, únicamente he unido piezas para que esta fusión fuera posible. 
@@ -9,7 +9,7 @@ Agradecer, también, a Felix64 por ayudarme a recopilar los archivos y a testear
 
 Este proceso sirve para todas las consolas, en especial para aquellas que tienen los gatillos rotos y no pueden acceder al Modo Recovery en los procesos de Pichaxx o USM. 
 
-REQUISITOS
+**REQUISITOS**
 1. Consola sin modificación boot9 o a9lh de cualquier modelo y región.
 2. Tarjeta Sd formateada en FAT32
 3. Archivo Movable.sed [se obtiene mediante el minado de Fuerza Bruta: https://seedminer.hacks.guide/]   
@@ -22,7 +22,7 @@ REQUISITOS
 10. frogcert.bin (este archivo costará encontrarlo debido a su licencia)
 11. Archivos hack variados (boot.firm de luma, payload de godmode9, FBI...) 
 
-PROCEDIMIENTO
+**PROCEDIMIENTO**
 1. Configurar un personaje MII, apuntar el código y acudir al REQUISITO 2 para obtener el MOVABLE.sed
 2. Obtener el archivo F00D43D5 tras la conversión con TADmuffinPC. Meter dicho archivo en la siguiente ruta: sd/Nintendo3Ds/ID1/ID0/Nintendo DSiWare
 3. Meter en la raiz de la Tarjeta Sd los archivos de los REQUISITOS 5,6,7,9,10,11. Introducir también el Movable.sed.
