@@ -1,7 +1,7 @@
 # MenuFrogHax
 Método de hackeo para Nintendo 3Ds/2Ds
 
-SINOPSIS
+*SINOPSIS*
 
 El siguiente proceso de Modificación de 3Ds es un híbrido entre Menuhax67 [https://github.com/zoogie/menuhax67] y Frogtool [https://github.com/zoogie/Frogtool],
 ambas creaciones de Zoogie y es a él a quien deben atribuirse todos lo méritos. Yo, Kelonio, únicamente he unido piezas para que esta fusión fuera posible. 
